@@ -1,5 +1,5 @@
 package com.example.demo.service.impl;
 
-public class StundentServiceImpl{
+public class StudentServiceImpl{
 
 }
