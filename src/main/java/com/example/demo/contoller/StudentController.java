@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.*;
 import com.example.demo.entity.StudentEntity;
 import com.example.demo.service.StudentService;
-
+import org.springframework.web.bind.annotation.GetMapping;
 
 @RestController
 public class StudentController {
