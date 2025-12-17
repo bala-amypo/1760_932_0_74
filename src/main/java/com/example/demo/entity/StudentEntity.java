@@ -14,5 +14,24 @@ public class StundentEntity{
     private String name;
     private String email;
     private float cgpa;
+    public void setID(String id){
+        this.name=name;
+    }
+    public String getID(){
+        return name;
+    }
+    public void setID(String id){
+        this.name=name;
+    }
+    public String getID(){
+        return name;
+    }
+    public void setID(String id){
+        this.name=name;
+    }
+    public String getID(){
+        return name;
+    }
+
 
 }
