@@ -1,5 +1,5 @@
 package com.example.demo.repository;
 
-public class StundentRepository{
+public class StudentRepository{
 
 }
