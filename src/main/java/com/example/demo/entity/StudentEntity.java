@@ -15,6 +15,10 @@ public class StundentEntity{
     private String email;
     private float cgpa;
 
+    public StundentEntity(){
+
+    }
+
     public StundentEntity(Long id,String  name,String email,float cgpa){
         this.id=id;
         this.name=name;
